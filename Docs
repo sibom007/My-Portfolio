@@ -1,8 +1,30 @@
 NavBar,
 Landing page,
 Never Give Up page,
+PlayPage,
 Skill page,
 Project page,
 About me,
 Contact me,
 Footer,
+
+
+
+skills{
+    Html,
+    css,
+    javascript,
+    react,
+    mongodb,
+    react hook from,
+    tailwend,
+    Axios,
+    next js,
+    next ui,
+    sadcn,
+    framer-motion,
+    prisma,
+    postgress,
+    Tanstak Query,
+    Jwt token,
+}

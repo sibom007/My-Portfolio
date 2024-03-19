@@ -5,7 +5,11 @@ export default {
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
-    extend: {},
+    extend: {
+      backgroundImage: {
+        'Eye': "url('./public/Untitled design.png')",
+      }
+    },
   },
   plugins: [],
 }
