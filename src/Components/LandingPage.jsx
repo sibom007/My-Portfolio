@@ -1,4 +1,3 @@
-
 const LandingPage = () => {
     return (
         <div data-scroll data-scroll-speed='-.1' className="w-full ">

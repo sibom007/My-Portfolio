@@ -19,7 +19,7 @@ const PlayPage = () => {
     })
 
     return (
-        <div data-scroll data-scroll-speed='-.2' className=" h-screen overflow-hidden w-full px-32 py-14 pt-0">
+        <div data-scroll data-scroll-speed='-.2' className=" h-screen overflow-hidden w-full px-32 py-14 pt-0 ">
             <h1 className="underline uppercase text-4xl text-center mb-5 font-semibold">Play With me</h1>
             <div style={{ backgroundImage: 'url(../../public/eye2.png)' }} className='w-full rounded-lg relative h-full'>
                 <div className="absolute flex gap-8 top-1/2 left-1/2 -translate-x-[50%] -translate-y-[50%]">
