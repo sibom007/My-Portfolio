@@ -5,6 +5,10 @@ import NeverGiveUpPage from "./Components/NeverGiveUpPage"
 import LocomotiveScroll from 'locomotive-scroll';
 import PlayPage from "./Components/PlayPage";
 import SkillsPage from "./Components/SkillsPage";
+import ProjectPage from "./Components/ProjectPage";
+import AboutMe from "./Components/AboutMe";
+import ContactMe from "./Components/ContactMe";
+import Footer from "./Components/Footer";
 
 
 function App() {
@@ -13,12 +17,16 @@ function App() {
 
 
   return (
-    <div className="h-screen">
+    <div className="">
       <Navbar />
       <LandingPage />
       <NeverGiveUpPage />
       <PlayPage />
+      <ProjectPage />
       <SkillsPage />
+      <AboutMe />
+      <ContactMe />
+      <Footer />
     </div>
   )
 }
